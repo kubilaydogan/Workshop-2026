@@ -1,0 +1,142 @@
+2025-12-24 19:13:24 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:50 - |          Scenario Name: I love cucumber
+2025-12-24 19:13:24 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:50 - |          Scenario Name: I love cucumber
+2025-12-24 19:13:24 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:50 - |          Scenario Name: I love cucumber
+2025-12-24 19:13:24 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:50 - |          Scenario Name: I love cucumber
+2025-12-24 19:13:24 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:27 - ===============================================================
+2025-12-24 19:13:24 [main] INFO  Hooks:28 - |     Demo is Starting...
+2025-12-24 19:13:24 [main] INFO  Hooks:29 - |     Environment : SIT
+2025-12-24 19:13:24 [main] INFO  Hooks:30 - |     Operating System : Mac OS X
+2025-12-24 19:13:24 [main] INFO  Hooks:31 - |     Browser: chrome
+2025-12-24 19:13:24 [main] INFO  Hooks:32 - |     URL: https://www.saucedemo.com/
+2025-12-24 19:13:24 [main] INFO  Hooks:33 - |     Tested by: Kubilay
+2025-12-24 19:13:24 [main] INFO  Hooks:34 - ===============================================================
+
+2025-12-24 19:13:24 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:24 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:26 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:26 [main] INFO  Hooks:50 - |          Scenario Name: Login With Valid Credentials
+2025-12-24 19:13:26 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:26 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:26 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:26 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:26 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:26 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:27 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:27 [main] INFO  Hooks:50 - |          Scenario Name: Login With Invalid Credentials
+2025-12-24 19:13:27 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:28 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:28 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:28 [main] INFO  LoginPage:70 - Expected message "Username and password do not match any user in this service"  validated!
+2025-12-24 19:13:28 [main] INFO  LoginPage:70 - Expected message "Username and password do not match any user in this service"  validated!
+2025-12-24 19:13:28 [main] INFO  LoginPage:70 - Expected message "Username and password do not match any user in this service"  validated!
+2025-12-24 19:13:28 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:28 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:28 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:29 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:29 [main] INFO  Hooks:50 - |          Scenario Name: Login With Invalid Credentials
+2025-12-24 19:13:29 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:30 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:30 [main] INFO  LoginPage:44 - Login attempt by "standard_user"
+2025-12-24 19:13:30 [main] INFO  LoginPage:70 - Expected message "Username and password do not match any user in this service"  validated!
+2025-12-24 19:13:30 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:30 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:30 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:31 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:31 [main] INFO  Hooks:50 - |          Scenario Name: Login With Invalid Credentials
+2025-12-24 19:13:31 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:31 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:31 [main] INFO  LoginPage:44 - Login attempt by "user123"
+2025-12-24 19:13:31 [main] INFO  LoginPage:70 - Expected message "Username and password do not match any user in this service"  validated!
+2025-12-24 19:13:31 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:31 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:31 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:32 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:32 [main] INFO  Hooks:50 - |          Scenario Name: Login With Invalid Credentials
+2025-12-24 19:13:32 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:33 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:33 [main] INFO  LoginPage:44 - Login attempt by ""
+2025-12-24 19:13:33 [main] INFO  LoginPage:70 - Expected message "Username and password do not match any user in this service"  validated!
+2025-12-24 19:13:33 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:33 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:33 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:34 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:34 [main] INFO  Hooks:50 - |          Scenario Name: Pojo usage sample with login
+2025-12-24 19:13:34 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:35 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:35 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:35 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:35 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:35 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:36 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:36 [main] INFO  Hooks:50 - |          Scenario Name: Validate shopping cart
+2025-12-24 19:13:36 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:36 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:36 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:36 [main] INFO  ProductsPage:55 - Sauce Labs Fleece Jacket is added to shopping cart
+2025-12-24 19:13:36 [main] INFO  ProductsPage:55 - Sauce Labs Bolt T-Shirt is added to shopping cart
+2025-12-24 19:13:36 [main] INFO  ProductsPage:55 - Sauce Labs Backpack is added to shopping cart
+2025-12-24 19:13:36 [main] INFO  ProductsPage:55 - Sauce Labs Bike Light is added to shopping cart
+2025-12-24 19:13:36 [main] INFO  ProductsPage:55 - Sauce Labs Onesie is added to shopping cart
+2025-12-24 19:13:37 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:37 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:37 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:37 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:37 [main] INFO  Hooks:50 - |          Scenario Name: Validate various elements
+2025-12-24 19:13:37 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:38 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:38 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:39 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:39 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:39 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:40 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:40 [main] INFO  Hooks:50 - |          Scenario Name: Validate sort options
+2025-12-24 19:13:40 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:40 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:40 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:40 [main] INFO  ProductsPage:133 - Items sorted by: Name (A to Z)
+2025-12-24 19:13:40 [main] INFO  ProductsPage:133 - Items sorted by: Price (low to high)
+2025-12-24 19:13:40 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:41 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:41 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:41 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:41 [main] INFO  Hooks:50 - |          Scenario Name: Validate various elements
+2025-12-24 19:13:41 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:42 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:42 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:42 [main] INFO  ProductsPage:55 - Sauce Labs Bolt T-Shirt is added to shopping cart
+2025-12-24 19:13:42 [main] INFO  ProductsPage:55 - Sauce Labs Backpack is added to shopping cart
+2025-12-24 19:13:42 [main] INFO  ProductsPage:55 - Sauce Labs Bike Light is added to shopping cart
+2025-12-24 19:13:42 [main] INFO  ProductsPage:211 - User navigated to shopping cart
+2025-12-24 19:13:44 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:44 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:44 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:45 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:45 [main] INFO  Hooks:50 - |          Scenario Name: Validate Checkout functionality
+2025-12-24 19:13:45 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:46 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:46 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:46 [main] INFO  ProductsPage:55 - Sauce Labs Bolt T-Shirt is added to shopping cart
+2025-12-24 19:13:46 [main] INFO  ProductsPage:55 - Sauce Labs Backpack is added to shopping cart
+2025-12-24 19:13:46 [main] INFO  ProductsPage:55 - Sauce Labs Bike Light is added to shopping cart
+2025-12-24 19:13:46 [main] INFO  ProductsPage:55 - Sauce Labs Fleece Jacket is added to shopping cart
+2025-12-24 19:13:46 [main] INFO  ProductsPage:211 - User navigated to shopping cart
+2025-12-24 19:13:51 [main] INFO  Driver:83 - driver closed
+2025-12-24 19:13:51 [main] INFO  WebDriverManager:1268 - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-24 19:13:51 [main] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as /Users/kaidogan/.cache/selenium/chromedriver/mac-arm64/143.0.7499.169/chromedriver
+2025-12-24 19:13:52 [main] INFO  Hooks:49 - ===============================================================
+2025-12-24 19:13:52 [main] INFO  Hooks:50 - |          Scenario Name: Validate Checkout functionality USING POJO
+2025-12-24 19:13:52 [main] INFO  Hooks:51 - ===============================================================
+2025-12-24 19:13:53 [main] INFO  LoginPage:28 - Navigated to https://www.saucedemo.com/
+2025-12-24 19:13:53 [main] INFO  LoginPage:44 - Login attempt by standard_user
+2025-12-24 19:13:53 [main] INFO  ProductsPage:55 - Sauce Labs Bolt T-Shirt is added to shopping cart
+2025-12-24 19:13:53 [main] INFO  ProductsPage:55 - Sauce Labs Backpack is added to shopping cart
+2025-12-24 19:13:53 [main] INFO  ProductsPage:211 - User navigated to shopping cart
+2025-12-24 19:13:53 [main] INFO  Driver:83 - driver closed
